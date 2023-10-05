@@ -30,9 +30,9 @@ var fallingFactorial = require( './../../dist' );
 
 // FIXTURES //
 
-var negative = require( './../..xtures/cpp/negative.json' );
-var large = require( './../..xtures/cpp/large.json' );
-var small = require( './../..xtures/cpp/small.json' );
+var negative = require( './../fixtures/cpp/negative.json' );
+var large = require( './../fixtures/cpp/large.json' );
+var small = require( './../fixtures/cpp/small.json' );
 
 
 // TESTS //
