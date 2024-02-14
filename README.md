@@ -48,7 +48,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import fallingFactorial from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-falling-factorial@deno/mod.js';
+import fallingFactorial from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-falling-factorial@v0.2.0-deno/mod.js';
 ```
 
 #### fallingFactorial( x, n )
@@ -98,7 +98,7 @@ v = fallingFactorial( 3.0, -2 );
 ```javascript
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@deno/mod.js';
 import ceil from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-ceil@deno/mod.js';
-import fallingFactorial from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-falling-factorial@deno/mod.js';
+import fallingFactorial from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-falling-factorial@v0.2.0-deno/mod.js';
 
 var n;
 var x;
