@@ -48,7 +48,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import fallingFactorial from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-falling-factorial@esm/index.mjs';
+import fallingFactorial from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-falling-factorial@v0.2.2-esm/index.mjs';
 ```
 
 #### fallingFactorial( x, n )
@@ -103,7 +103,7 @@ v = fallingFactorial( 3.0, -2 );
 
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@esm/index.mjs';
 import ceil from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-ceil@esm/index.mjs';
-import fallingFactorial from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-falling-factorial@esm/index.mjs';
+import fallingFactorial from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-falling-factorial@v0.2.2-esm/index.mjs';
 
 var n;
 var x;
