@@ -2,6 +2,40 @@
 
 > Package changelog.
 
+<section class="release" id="unreleased">
+
+## Unreleased (2024-10-01)
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`aa94a37`](https://github.com/stdlib-js/stdlib/commit/aa94a37728cfa9d7356f9a9880bfc411f302443a) - **refactor:** remove hardcoded constant [(#2970)](https://github.com/stdlib-js/stdlib/pull/2970) _(by Gunj Joshi)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 1 person contributed to this release. Thank you to this contributor:
+
+-   Gunj Joshi
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.2.2">
 
 ## 0.2.2 (2024-07-28)
