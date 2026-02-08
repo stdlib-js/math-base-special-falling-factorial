@@ -48,6 +48,11 @@ limitations under the License.
 ## Usage
 
 ```javascript
+import fallingFactorial from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-falling-factorial@esm/index.mjs';
+```
+The previous example will load the latest bundled code from the esm branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/math-base-special-falling-factorial/tags). For example,
+
+```javascript
 import fallingFactorial from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-falling-factorial@v0.3.1-esm/index.mjs';
 ```
 
@@ -104,7 +109,7 @@ v = fallingFactorial( 3.0, -2 );
 import uniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-array-uniform@esm/index.mjs';
 import logEachMap from 'https://cdn.jsdelivr.net/gh/stdlib-js/console-log-each-map@esm/index.mjs';
 import discreteUniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-array-discrete-uniform@esm/index.mjs';
-import fallingFactorial from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-falling-factorial@v0.3.1-esm/index.mjs';
+import fallingFactorial from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-falling-factorial@esm/index.mjs';
 
 var opts = {
     'dtype': 'float64'
