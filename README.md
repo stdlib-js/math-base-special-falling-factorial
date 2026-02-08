@@ -48,7 +48,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import fallingFactorial from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-falling-factorial@deno/mod.js';
+import fallingFactorial from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-falling-factorial@v0.3.1-deno/mod.js';
 ```
 
 #### fallingFactorial( x, n )
@@ -99,7 +99,7 @@ v = fallingFactorial( 3.0, -2 );
 import uniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-array-uniform@deno/mod.js';
 import logEachMap from 'https://cdn.jsdelivr.net/gh/stdlib-js/console-log-each-map@deno/mod.js';
 import discreteUniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-array-discrete-uniform@deno/mod.js';
-import fallingFactorial from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-falling-factorial@deno/mod.js';
+import fallingFactorial from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-falling-factorial@v0.3.1-deno/mod.js';
 
 var opts = {
     'dtype': 'float64'
