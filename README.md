@@ -48,7 +48,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import fallingFactorial from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-falling-factorial@esm/index.mjs';
+import fallingFactorial from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-falling-factorial@v0.3.1-esm/index.mjs';
 ```
 
 #### fallingFactorial( x, n )
@@ -104,7 +104,7 @@ v = fallingFactorial( 3.0, -2 );
 import uniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-array-uniform@esm/index.mjs';
 import logEachMap from 'https://cdn.jsdelivr.net/gh/stdlib-js/console-log-each-map@esm/index.mjs';
 import discreteUniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-array-discrete-uniform@esm/index.mjs';
-import fallingFactorial from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-falling-factorial@esm/index.mjs';
+import fallingFactorial from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-falling-factorial@v0.3.1-esm/index.mjs';
 
 var opts = {
     'dtype': 'float64'
