@@ -50,7 +50,7 @@ limitations under the License.
 To use in Observable,
 
 ```javascript
-fallingFactorial = require( 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-falling-factorial@umd/browser.js' )
+fallingFactorial = require( 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-falling-factorial@v0.3.1-umd/browser.js' )
 ```
 
 To vendor stdlib functionality and avoid installing dependency trees for Node.js, you can use the UMD server build:
@@ -62,7 +62,7 @@ var fallingFactorial = require( 'path/to/vendor/umd/math-base-special-falling-fa
 To include the bundle in a webpage,
 
 ```html
-<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-falling-factorial@umd/browser.js"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-falling-factorial@v0.3.1-umd/browser.js"></script>
 ```
 
 If no recognized module system is present, access bundle contents via the global scope:
@@ -126,7 +126,7 @@ v = fallingFactorial( 3.0, -2 );
 <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/random-array-uniform@umd/browser.js"></script>
 <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/console-log-each-map@umd/browser.js"></script>
 <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/random-array-discrete-uniform@umd/browser.js"></script>
-<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-falling-factorial@umd/browser.js"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-falling-factorial@v0.3.1-umd/browser.js"></script>
 <script type="text/javascript">
 (function () {
 
